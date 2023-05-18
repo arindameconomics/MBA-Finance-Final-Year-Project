@@ -1,0 +1,12 @@
+---
+title: Arindam Chatterjee MBA Final Year Project
+output:
+  md_document:
+    df_print: paged
+date: "2023-05-18"
+---
+
+# R Markdown Document
+
+
+[Click here to view the PDF](https://drive.google.com/file/d/19L_WTSp_UgWzE2IuKB75gACHSQnX_zdP/view?usp=sharing)
