@@ -5,7 +5,7 @@ India and USA, China Using Regression Analysis
 
 Author: Arindam Chatterjee
 
-Abstract TThis paper is an attempt to examine the empirical evidence of
+Abstract This paper is an attempt to examine the empirical evidence of
 International Fisher Effect (IFE) between India and its two other major
 trading partners, China and USA. Interest Rate Differentials are used in
 IFE to explain why exchange rates change over time. Here Regression
